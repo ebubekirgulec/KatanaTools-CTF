@@ -53,9 +53,5 @@ python katana.py
 
 Follow the on-screen prompts to easily navigate through tools and conquer your CTF challenges without needing to memorize syntax!
 
-## 📸 Screenshots
-
-*(You can add screenshots of the beautiful terminal interface here to show it off on your GitHub!)*
-
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check issues page. Let's build the ultimate CTF toolkit together.
